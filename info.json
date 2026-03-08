@@ -1,0 +1,46 @@
+{
+  "name": "Bitcoin Limited Edition",
+  "website": "https://bitcoin-limitededition.com",
+  "description": "Bitcoin Limited Edition (BTCLE) is a fixed-supply BEP20 token focused on long-term scarcity, transparent governance, and a roadmap for Bitcoin Layer 2 and Real World Asset integration.",
+  "explorer": "https://bscscan.com/token/0x9d2144328e1d618F54Cd38540F5eE50671f6A208",
+  "research": "https://coinmarketcap.com/currencies/bitcoin-limited-edition/",
+  "type": "BEP20",
+  "symbol": "BTCLE",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x9d2144328e1d618F54Cd38540F5eE50671f6A208",
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/BitcoinLimitedEdition1/btcle-listing-repo"
+    },
+    {
+      "name": "whitepaper",
+      "url": "https://bitcoin-limitededition.com/?page=whitepaper"
+    },
+    {
+      "name": "x",
+      "url": "https://x.com/bitcoinbtcle"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/BTCLE_Official"
+    },
+    {
+      "name": "coingecko",
+      "url": "https://www.coingecko.com/en/coins/bitcoin-limited-edition/"
+    },
+    {
+      "name": "coinmarketcap",
+      "url": "https://coinmarketcap.com/currencies/bitcoin-limited-edition/"
+    },
+    {
+      "name": "docs",
+      "url": "https://bitcoin-limitededition.com/?page=whitepaper"
+    }
+  ],
+  "tags": [
+    "defi",
+    "governance"
+  ]
+}

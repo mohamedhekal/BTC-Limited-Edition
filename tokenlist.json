@@ -1,0 +1,27 @@
+{
+  "name": "BTCLE Token List",
+  "timestamp": "2026-03-08T00:00:00.000Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "logoURI": "https://raw.githubusercontent.com/BitcoinLimitedEdition1/btcle-listing-repo/main/logo.png",
+  "keywords": [
+    "btcle",
+    "bitcoin",
+    "bsc",
+    "layer2",
+    "rwa"
+  ],
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0x9d2144328e1d618F54Cd38540F5eE50671f6A208",
+      "name": "Bitcoin Limited Edition",
+      "symbol": "BTCLE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/BitcoinLimitedEdition1/btcle-listing-repo/main/logo.png"
+    }
+  ]
+}
