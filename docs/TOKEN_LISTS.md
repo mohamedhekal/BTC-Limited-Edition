@@ -8,7 +8,7 @@ This repository provides `tokenlist.json`.
 
 After pushing to GitHub, your list URL is:
 
-`https://raw.githubusercontent.com/mohamedhekal/BTC-Limited-Edition/main/tokenlist.json`
+`https://raw.githubusercontent.com/BitcoinLimitedEdition1/BTC-Limited-Edition/main/tokenlist.json`
 
 Users can import this URL into compatible wallets/dApps.
 

@@ -17,7 +17,7 @@ Official repository for BTCLE token metadata, wallet asset listing files, and pu
 
 - Website: [https://bitcoin-limitededition.com](https://bitcoin-limitededition.com)
 - Whitepaper: [https://bitcoin-limitededition.com/?page=whitepaper](https://bitcoin-limitededition.com/?page=whitepaper)
-- Repository: [https://github.com/mohamedhekal/BTC-Limited-Edition](https://github.com/mohamedhekal/BTC-Limited-Edition)
+- Repository: [https://github.com/BitcoinLimitedEdition1/BTC-Limited-Edition](https://github.com/BitcoinLimitedEdition1/BTC-Limited-Edition)
 - BscScan Token: [https://bscscan.com/token/0x9d2144328e1d618F54Cd38540F5eE50671f6A208](https://bscscan.com/token/0x9d2144328e1d618F54Cd38540F5eE50671f6A208)
 - BscScan Source Code: [https://bscscan.com/address/0x9d2144328e1d618F54Cd38540F5eE50671f6A208#code](https://bscscan.com/address/0x9d2144328e1d618F54Cd38540F5eE50671f6A208#code)
 - CoinMarketCap: [https://coinmarketcap.com/currencies/bitcoin-limited-edition/](https://coinmarketcap.com/currencies/bitcoin-limited-edition/)
@@ -114,7 +114,7 @@ In MetaMask:
 
 After publishing this repository, this file can be used as a token list URL:
 
-`https://raw.githubusercontent.com/mohamedhekal/BTC-Limited-Edition/main/tokenlist.json`
+`https://raw.githubusercontent.com/BitcoinLimitedEdition1/BTC-Limited-Edition/main/tokenlist.json`
 
 Users can import this token list URL in wallets/dApps that support custom token lists.
 

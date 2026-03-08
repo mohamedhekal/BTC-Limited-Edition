@@ -6,7 +6,7 @@
     "minor": 0,
     "patch": 0
   },
-  "logoURI": "https://raw.githubusercontent.com/mohamedhekal/BTC-Limited-Edition/main/logo.png",
+  "logoURI": "https://raw.githubusercontent.com/BitcoinLimitedEdition1/BTC-Limited-Edition/main/logo.png",
   "keywords": [
     "btcle",
     "bitcoin",
@@ -21,7 +21,7 @@
       "name": "Bitcoin Limited Edition",
       "symbol": "BTCLE",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/mohamedhekal/BTC-Limited-Edition/main/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/BitcoinLimitedEdition1/BTC-Limited-Edition/main/logo.png"
     }
   ]
 }
