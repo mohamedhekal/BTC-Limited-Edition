@@ -35,6 +35,24 @@ Official repository for BTCLE token metadata, wallet asset listing files, and pu
 - Discord: [https://discord.com/channels/1260139777253183488/1276111675543781449](https://discord.com/channels/1260139777253183488/1276111675543781449)
 - Reddit: [https://reddit.com/r/BTCLEOfficial](https://reddit.com/r/BTCLEOfficial)
 
+## Security and Verification Links
+
+- Coinscope KYC: [https://www.coinscope.co/coin/btcle/kyc](https://www.coinscope.co/coin/btcle/kyc)
+- Coinscope Audit: [https://www.coinscope.co/coin/btcle/audit](https://www.coinscope.co/coin/btcle/audit)
+- Cyberscope Audit: [https://www.cyberscope.io/audits/btcle](https://www.cyberscope.io/audits/btcle)
+- CertiK Skynet Token Scan: [https://skynet.certik.com/tools/token-scan/bsc/0x9d2144328e1d618f54cd38540f5ee50671f6a208](https://skynet.certik.com/tools/token-scan/bsc/0x9d2144328e1d618f54cd38540f5ee50671f6a208)
+- GoPlus Token Security: [https://gopluslabs.io/token-security/56/0x9d2144328e1d618f54cd38540f5ee50671f6a208](https://gopluslabs.io/token-security/56/0x9d2144328e1d618f54cd38540f5ee50671f6a208)
+- SolidityScan QuickScan: [https://solidityscan.com/quickscan/0x9d2144328e1d618f54cd38540f5ee50671f6a208/bscscan/mainnet?ref=etherscan](https://solidityscan.com/quickscan/0x9d2144328e1d618f54cd38540f5ee50671f6a208/bscscan/mainnet?ref=etherscan)
+
+## Liquidity, Locks, and Vesting Links
+
+- UNCX Vesting (10 years): [https://app.uncx.network/vesting-v2/token/chain/1/address/0x9d2144328e1d618f54cd38540f5ee50671f6a208?view=vesting](https://app.uncx.network/vesting-v2/token/chain/1/address/0x9d2144328e1d618f54cd38540f5ee50671f6a208?view=vesting)
+- UNCX UniV3 Locker (2 years): [https://app.uncx.network/lockers/univ3/chain/56/address/0x6a2dd37603c5b8c5bdd1d2c75111af9af8bdbcc2](https://app.uncx.network/lockers/univ3/chain/56/address/0x6a2dd37603c5b8c5bdd1d2c75111af9af8bdbcc2)
+- UNCX UniV2 Locker (2 years): [https://app.uncx.network/lockers/univ2/chain/56/address/0xe14412dfefebb1fc0055940a729338e2f9c6c8d9](https://app.uncx.network/lockers/univ2/chain/56/address/0xe14412dfefebb1fc0055940a729338e2f9c6c8d9)
+- UNCX UniV2 Locker (2 years): [https://app.uncx.network/lockers/univ2/chain/56/address/0x51cd57a2be042530ba59d6018e2d04d9d7776dee](https://app.uncx.network/lockers/univ2/chain/56/address/0x51cd57a2be042530ba59d6018e2d04d9d7776dee)
+- DexScreener Pair: [https://dexscreener.com/bsc/0x6a2dd37603c5b8c5bdd1d2c75111af9af8bdbcc2](https://dexscreener.com/bsc/0x6a2dd37603c5b8c5bdd1d2c75111af9af8bdbcc2)
+- DEXTools Pair Explorer: [https://www.dextools.io/app/bnb/pair-explorer/0x6a2dd37603c5b8c5bdd1d2c75111af9af8bdbcc2](https://www.dextools.io/app/bnb/pair-explorer/0x6a2dd37603c5b8c5bdd1d2c75111af9af8bdbcc2)
+
 ## Repository Contents
 
 - `info.json`: Trust Wallet / asset repository standard metadata.
@@ -43,6 +61,7 @@ Official repository for BTCLE token metadata, wallet asset listing files, and pu
 - `docs/TOKENOMICS.md`: Tokenomics and vesting summary.
 - `docs/TRUSTWALLET_PR.md`: Step-by-step Trust Wallet PR instructions.
 - `docs/TOKEN_LISTS.md`: MetaMask and token-list submission instructions.
+- `docs/VERIFICATION_LINKS.md`: KYC, audit, scan, and lock references.
 - `logo.png`: Project logo file (must follow exact technical rules).
 
 ## Repository Structure
@@ -62,7 +81,8 @@ btcle-listing-repo/
 └── docs/
     ├── TOKENOMICS.md
     ├── TOKEN_LISTS.md
-    └── TRUSTWALLET_PR.md
+    ├── TRUSTWALLET_PR.md
+    └── VERIFICATION_LINKS.md
 ```
 
 ## Logo Requirements
