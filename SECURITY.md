@@ -33,7 +33,7 @@ Never commit:
 
 - Total supply: `210,000 BTCLE`
 - Circulating supply: `21,000 BTCLE`
-- Locked and vested: `189,000 BTCLE`
+- Locked and vested: `194,421.4 BTCLE`
 - Vesting source: UNCX Network vesting plan (10 years)
 
 ## Reporting Security Issues

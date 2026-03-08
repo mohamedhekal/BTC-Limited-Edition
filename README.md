@@ -11,7 +11,7 @@ Official repository for BTCLE token metadata, wallet asset listing files, and pu
 - Decimals: `18`
 - Max Supply: `210,000 BTCLE`
 - Circulating Supply: `21,000 BTCLE`
-- Locked and Vested: `189,000 BTCLE` (10 years via UNCX)
+- Locked and Vested: `194,421.4 BTCLE` (10 years via UNCX)
 
 ## Links
 

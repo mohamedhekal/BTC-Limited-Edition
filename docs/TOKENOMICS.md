@@ -10,7 +10,7 @@
 ## Distribution Summary
 
 - Circulating at launch: `21,000 BTCLE` (10%)
-- Locked and vested allocation: `189,000 BTCLE` (90%)
+- Locked and vested allocation: `194,421.4 BTCLE` (90%)
 - Vesting period: 10 years
 - Vesting timeline: March 2026 to December 2035
 - Vesting reference: UNCX Network lock/vesting setup
